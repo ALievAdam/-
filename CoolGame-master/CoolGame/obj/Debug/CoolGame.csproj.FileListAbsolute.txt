@@ -1,0 +1,58 @@
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\bin\Debug\CoolGame.exe.config
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\bin\Debug\CoolGame.exe
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\bin\Debug\CoolGame.pdb
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.Form1.resources
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.Properties.Resources.resources
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.exe
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.pdb
+C:\Users\Admin\Desktop\Игра\CoolGame\CoolGame\obj\Debug\CoolGame.GameOver.resources
+C:\Users\Admin\Desktop\CoolGame\CoolGame\bin\Debug\CoolGame.exe.config
+C:\Users\Admin\Desktop\CoolGame\CoolGame\bin\Debug\CoolGame.exe
+C:\Users\Admin\Desktop\CoolGame\CoolGame\bin\Debug\CoolGame.pdb
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.Form1.resources
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.GameOver.resources
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.Properties.Resources.resources
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.exe
+C:\Users\Admin\Desktop\CoolGame\CoolGame\obj\Debug\CoolGame.pdb
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\bin\Debug\CoolGame.exe.config
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\bin\Debug\CoolGame.exe
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\bin\Debug\CoolGame.pdb
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.Form1.resources
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.GameOver.resources
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.Properties.Resources.resources
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.exe
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.pdb
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.PassLvl.resources
+C:\Users\Admin\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.Instructions.resources
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\bin\Debug\CoolGame.exe.config
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\bin\Debug\CoolGame.exe
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\bin\Debug\CoolGame.pdb
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csproj.AssemblyReference.cache
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csproj.ResolveComReference.cache
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.Form1.resources
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.GameOver.resources
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.Instructions.resources
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.PassLvl.resources
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.Properties.Resources.resources
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csproj.GenerateResource.cache
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.csproj.CoreCompileInputs.cache
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.exe
+C:\Users\adam-\OneDrive - УрФУ\Desktop\CoolGame-master\CoolGame\obj\Debug\CoolGame.pdb
